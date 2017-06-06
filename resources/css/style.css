@@ -73,7 +73,7 @@ h1, h2, h3, h4 {
 }
 
 .item {
-  padding: 10px;
+  margin: 10px;
   width: 300px;
 }
 
@@ -87,4 +87,19 @@ h1, h2, h3, h4 {
   display: block;
   text-align: center;
   font-weight: bold;
+}
+
+#location {
+  background-image: url("../img/img-locations-background.jpg");
+  height: 500px;
+}
+
+.location-item {
+  width: 300px;
+  opacity: 1;
+  margin: 15px 20px;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
