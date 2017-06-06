@@ -46,4 +46,32 @@ nav span {
 
 .main-content {
   padding-top: 69px;
+  width: 1200px;
+  margin: auto;
+}
+
+h1, h2, h3, h4 {
+  padding: 10px;
+  margin: 0px;
+}
+
+#tea {
+  height: 700px;
+  width: 1000px;
+  margin: auto;
+}
+
+.item {
+
+}
+
+.item img {
+  display: block;
+  height: 200px;
+}
+
+.item span {
+  display: block;
+  text-align: center;
+
 }
