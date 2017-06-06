@@ -48,6 +48,7 @@ nav span {
   padding-top: 69px;
   width: 1200px;
   margin: auto;
+  opacity: 0.9;
 }
 
 h1, h2, h3, h4 {
@@ -56,22 +57,23 @@ h1, h2, h3, h4 {
 }
 
 #tea {
-  height: 700px;
   width: 1000px;
   margin: auto;
 }
 
 .item {
-
+  padding: 10px;
+  width: 300px;
 }
 
 .item img {
   display: block;
   height: 200px;
+  padding: 10px;
 }
 
 .item span {
   display: block;
   text-align: center;
-
+  font-weight: bold;
 }
