@@ -56,6 +56,17 @@ h1, h2, h3, h4 {
   margin: 0px;
 }
 
+#mission {
+  background-image: url("../img/img-mission-background.jpg");
+  height: 700px;
+}
+
+.mission-statement {
+  width: 100%;
+  background-color: black;
+  margin: auto;
+}
+
 #tea {
   width: 1000px;
   margin: auto;
