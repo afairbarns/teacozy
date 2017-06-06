@@ -1,2 +1,3 @@
 # teacozy
-tea cozy project codecademy ready week 4
+
+Website homepage design for company The Tea Cozy. Part of Codecademy Ready course week 4.
