@@ -94,6 +94,12 @@ h1, h2, h3, h4 {
 #location {
   background-image: url("../img/img-locations-background.jpg");
   height: 500px;
+  margin-top: 70px;
+  padding-top: 70px;
+}
+
+.locations {
+  margin: auto;
 }
 
 .location-item {
